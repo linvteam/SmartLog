@@ -2,4 +2,4 @@
 
 ## Ingegneria del Software 2022/2023 @ Unipd
 
-La repository conterrà tutta la documentazione che sarà condivisa con il cliente e il mentore, quindi non saranno inclusi file sorgente ma solo documentazione 
+La repository conterrà tutta la documentazione che sarà condivisa con il cliente e il mentore, come piani di progetto, piani di qaulifica, diagrammi UML e altri documenti di interesse, non sono inclusi file sorgente
