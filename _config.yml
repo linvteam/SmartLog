@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: SmartLog - LINV Team
+description: Raccolta della documentazione prodotta durante lo sviluppo del capitolato SmartLog di Socomec
+show_downloads: false
