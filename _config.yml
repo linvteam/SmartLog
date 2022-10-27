@@ -4,5 +4,4 @@ plugins:
 title: SmartLog - LINV Team
 description: Raccolta della documentazione prodotta durante lo sviluppo del capitolato SmartLog di Socomec
 show_downloads: false
-site:
-  logo: favicon.svg
+logo: favicon.svg
