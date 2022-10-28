@@ -1,5 +1,25 @@
-# Repository della documentazione pubblica di Team LINV
+# SmartLog - LINV Team
 
-## Ingegneria del Software 2022/2023 @ Unipd
+Pagina di aggregazione della documentazione del progetto di Ingegneria del Software (A.A 2022/2023). Il capitolato scelto è il [C5 SmartLog](https://www.math.unipd.it/~tullio/IS-1/2022/Progetto/C5.pdf) di Socomec.
 
-La repository conterrà tutta la documentazione che sarà condivisa con il cliente e il mentore, come piani di progetto, piani di qaulifica, diagrammi UML e altri documenti di interesse, non sono inclusi file sorgente
+# Documenti
+
+## Candidatura
+
+- [Lettera di candidatura](/SmartLog/Candidatura/Candidatura.pdf)
+- [Resoconto dei capitolati](/SmartLog/Candidatura/ResocontoCapitolati.pdf)
+- [Piano di progetto preliminare](/SmartLog/PdP/PianoDiProgetto.pdf) v0.1
+
+> Nota: il documento "Piano di progetto" si tratta di una revisione preliminare atta a specificare più dettagli rispetto a quanto riportato nella lettera di presentazione, le successive revisioni verrano spostate nella sezione "Esterni".
+
+---
+
+## Esterni
+
+Non sono presenti ancora documenti ad uso esterno.
+
+---
+
+## Interni
+
+- [Way of working](/SmartLog/WOW/WayOfWorking.pdf) v0.1
