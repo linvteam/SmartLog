@@ -16,10 +16,15 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 
 ## Esterni
 
-Non sono presenti ancora documenti ad uso esterno.
+- [Glossario](/SmartLog/Glossario/Glossario.pdf) v0.1
 
 ---
 
 ## Interni
 
 - [Way of working](/SmartLog/WOW/WayOfWorking.pdf) v0.3
+- Verbali interni
+    * [Verbale_2022_10_21](/SmartLog/Verbali/Interni/Verbale_2022_10_21.pdf)
+    * [Verbale_2022_10_27](/SmartLog/Verbali/Interni/Verbale_2022_10_27.pdf)
+    * [Verbale_2022_10_28](/SmartLog/Verbali/Interni/Verbale_2022_10_28.pdf)
+    * [Verbale_2022_11_02](/SmartLog/Verbali/Interni/Verbale_2022_11_02.pdf)
