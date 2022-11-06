@@ -22,4 +22,4 @@ Non sono presenti ancora documenti ad uso esterno.
 
 ## Interni
 
-- [Way of working](/SmartLog/WOW/WayOfWorking.pdf) v0.1
+- [Way of working](/SmartLog/WOW/WayOfWorking.pdf) v0.3
