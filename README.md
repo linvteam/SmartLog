@@ -6,25 +6,50 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 
 ## Candidatura
 
-- [Lettera di candidatura](/SmartLog/Candidatura/Candidatura.pdf)
-- [Resoconto dei capitolati](/SmartLog/Candidatura/ResocontoCapitolati.pdf)
-- [Piano di progetto preliminare](/SmartLog/PdP/PianoDiProgetto.pdf) v0.1
+- [Candidatura per il progetto di Ingegneria del Software](/SmartLog/Candidatura/Candidatura.pdf)
+- [Resoconto dei capitolati presentati](/SmartLog/Candidatura/ResocontoCapitolati.pdf)
 
-> Nota: il documento "Piano di progetto" si tratta di una revisione preliminare atta a specificare più dettagli rispetto a quanto riportato nella lettera di presentazione, le successive revisioni verrano spostate nella sezione "Esterni".
 
 ---
 
 ## Esterni
 
-- [Glossario](/SmartLog/Glossario/Glossario.pdf) v0.1
+- [Analisi dei Requisiti](/SmartLog/AdR/AnalisiDeiRequisiti.pdf) v1.0.0
+- [Glossario](/SmartLog/Glossario/Glossario.pdf) v0.2.0
+- [Piano di progetto](/SmartLog/PdP/PianoDiProgetto.pdf) v0.7.3
+
+
+### Verbali
+
+- [Verbale 08/11/2022](/SmartLog/Verbali/Esterni/Verbale_2022_11_08.pdf)
+- [Verbale 06/12/2022](/SmartLog/Verbali/Esterni/Verbale_2022_12_06.pdf)
+- [Verbale 16/12/2022](/SmartLog/Verbali/Esterni/Verbale_2022_12_16.pdf)
+- [Verbale 21/12/2022](/SmartLog/Verbali/Esterni/Verbale_2022_12_21.pdf)
+- [Verbale 11/01/2023](/SmartLog/Verbali/Esterni/Verbale_2023_01_11.pdf)
+- [Verbale 03/02/2023](/SmartLog/Verbali/Esterni/Verbale_2023_02_03.pdf)
+
 
 ---
 
 ## Interni
 
-- [Way of working](/SmartLog/WOW/WayOfWorking.pdf) v0.3
-- Verbali interni
-    * [Verbale_2022_10_21](/SmartLog/Verbali/Interni/Verbale_2022_10_21.pdf)
-    * [Verbale_2022_10_27](/SmartLog/Verbali/Interni/Verbale_2022_10_27.pdf)
-    * [Verbale_2022_10_28](/SmartLog/Verbali/Interni/Verbale_2022_10_28.pdf)
-    * [Verbale_2022_11_02](/SmartLog/Verbali/Interni/Verbale_2022_11_02.pdf)
+- [Way of working](/SmartLog/WOW/WayOfWorking.pdf) v0.10.0
+
+
+### Verbali
+
+- [Verbale 21/10/2022](/SmartLog/Verbali/Interni/Verbale_2022_10_21.pdf)
+- [Verbale 27/10/2022](/SmartLog/Verbali/Interni/Verbale_2022_10_27.pdf)
+- [Verbale 28/10/2022](/SmartLog/Verbali/Interni/Verbale_2022_10_28.pdf)
+- [Verbale 02/11/2022](/SmartLog/Verbali/Interni/Verbale_2022_11_02.pdf)
+- [Verbale 04/11/2022](/SmartLog/Verbali/Interni/Verbale_2022_11_04.pdf)
+- [Verbale 11/11/2022](/SmartLog/Verbali/Interni/Verbale_2022_11_11.pdf)
+- [Verbale 18/11/2022](/SmartLog/Verbali/Interni/Verbale_2022_11_18.pdf)
+- [Verbale 25/11/2022](/SmartLog/Verbali/Interni/Verbale_2022_11_25.pdf)
+- [Verbale 02/12/2022](/SmartLog/Verbali/Interni/Verbale_2022_12_02.pdf)
+- [Verbale 09/12/2022](/SmartLog/Verbali/Interni/Verbale_2022_12_09.pdf)
+- [Verbale 16/12/2022](/SmartLog/Verbali/Interni/Verbale_2022_12_16.pdf)
+- [Verbale 23/12/2022](/SmartLog/Verbali/Interni/Verbale_2022_12_23.pdf)
+- [Verbale 09/01/2023](/SmartLog/Verbali/Interni/Verbale_2023_01_09.pdf)
+- [Verbale 24/02/2023](/SmartLog/Verbali/Interni/Verbale_2023_02_24.pdf)
+
