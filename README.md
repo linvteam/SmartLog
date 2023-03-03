@@ -8,6 +8,7 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 
 - [Candidatura per il progetto di Ingegneria del Software](/SmartLog/Candidatura/Candidatura.pdf)
 - [Resoconto dei capitolati presentati](/SmartLog/Candidatura/ResocontoCapitolati.pdf)
+- [Candidatura per la revisione Requirements and Technology Baseline](/SmartLog/Candidatura-RTB/Candidatura.pdf)
 
 
 ---
@@ -17,6 +18,7 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 - [Analisi dei Requisiti](/SmartLog/AdR/AnalisiDeiRequisiti.pdf) v1.0.0
 - [Glossario](/SmartLog/Glossario/Glossario.pdf) v0.2.0
 - [Piano di progetto](/SmartLog/PdP/PianoDiProgetto.pdf) v0.7.3
+- [Piano di qualifica](/SmartLog/PdQ/PianoDiQualifica.pdf) v0.5.0
 
 
 ### Verbali
