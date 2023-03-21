@@ -7,6 +7,7 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 ## Requirements and Technology Baseline
 
 - [Candidatura per la revisione Requirements and Technology Baseline](/SmartLog/Candidatura-RTB/Candidatura.pdf)
+
 ## Candidatura
 
 - [Candidatura per il progetto di Ingegneria del Software](/SmartLog/Candidatura/Candidatura.pdf)
