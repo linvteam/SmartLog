@@ -4,11 +4,13 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 
 # Documenti
 
+## Requirements and Technology Baseline
+
+- [Candidatura per la revisione Requirements and Technology Baseline](/SmartLog/Candidatura-RTB/Candidatura.pdf)
 ## Candidatura
 
 - [Candidatura per il progetto di Ingegneria del Software](/SmartLog/Candidatura/Candidatura.pdf)
 - [Resoconto dei capitolati presentati](/SmartLog/Candidatura/ResocontoCapitolati.pdf)
-- [Candidatura per la revisione Requirements and Technology Baseline](/SmartLog/Candidatura-RTB/Candidatura.pdf)
 
 
 ---
@@ -16,9 +18,9 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 ## Esterni
 
 - [Analisi dei Requisiti](/SmartLog/AdR/AnalisiDeiRequisiti.pdf) v1.0.0
-- [Glossario](/SmartLog/Glossario/Glossario.pdf) v0.2.0
-- [Piano di progetto](/SmartLog/PdP/PianoDiProgetto.pdf) v0.7.3
-- [Piano di qualifica](/SmartLog/PdQ/PianoDiQualifica.pdf) v0.5.0
+- [Glossario](/SmartLog/Glossario/Glossario.pdf) v1.0.0
+- [Piano di progetto](/SmartLog/PdP/PianoDiProgetto.pdf) v1.0.0
+- [Piano di qualifica](/SmartLog/PdQ/PianoDiQualifica.pdf) v1.0.0
 
 
 ### Verbali
@@ -35,7 +37,7 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 
 ## Interni
 
-- [Way of working](/SmartLog/WOW/WayOfWorking.pdf) v0.10.0
+- [Way of working](/SmartLog/WOW/WayOfWorking.pdf) v1.0.0
 
 
 ### Verbali
@@ -54,4 +56,6 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 - [Verbale 23/12/2022](/SmartLog/Verbali/Interni/Verbale_2022_12_23.pdf)
 - [Verbale 09/01/2023](/SmartLog/Verbali/Interni/Verbale_2023_01_09.pdf)
 - [Verbale 24/02/2023](/SmartLog/Verbali/Interni/Verbale_2023_02_24.pdf)
+- [Verbale 01/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_01.pdf)
+- [Verbale 10/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_10.pdf)
 
