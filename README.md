@@ -4,6 +4,7 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 
 # Documenti
 
+
 ## Requirements and Technology Baseline
 
 - [Candidatura per la revisione Requirements and Technology Baseline](/SmartLog/Candidatura-RTB/Candidatura.pdf)
@@ -30,8 +31,10 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 - [Verbale 06/12/2022](/SmartLog/Verbali/Esterni/Verbale_2022_12_06.pdf)
 - [Verbale 16/12/2022](/SmartLog/Verbali/Esterni/Verbale_2022_12_16.pdf)
 - [Verbale 21/12/2022](/SmartLog/Verbali/Esterni/Verbale_2022_12_21.pdf)
+- [Verbale 22/12/2022](/SmartLog/Verbali/Esterni/Verbale_2022_12_22.pdf)
 - [Verbale 11/01/2023](/SmartLog/Verbali/Esterni/Verbale_2023_01_11.pdf)
 - [Verbale 03/02/2023](/SmartLog/Verbali/Esterni/Verbale_2023_02_03.pdf)
+- [Verbale 08/02/2023](/SmartLog/Verbali/Esterni/Verbale_2023_02_08.pdf)
 
 
 ---
@@ -56,7 +59,11 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 - [Verbale 16/12/2022](/SmartLog/Verbali/Interni/Verbale_2022_12_16.pdf)
 - [Verbale 23/12/2022](/SmartLog/Verbali/Interni/Verbale_2022_12_23.pdf)
 - [Verbale 09/01/2023](/SmartLog/Verbali/Interni/Verbale_2023_01_09.pdf)
+- [Verbale 20/01/2023](/SmartLog/Verbali/Interni/Verbale_2023_01_20.pdf)
+- [Verbale 02/02/2023](/SmartLog/Verbali/Interni/Verbale_2023_02_02.pdf)
+- [Verbale 17/02/2023](/SmartLog/Verbali/Interni/Verbale_2023_02_17.pdf)
 - [Verbale 24/02/2023](/SmartLog/Verbali/Interni/Verbale_2023_02_24.pdf)
 - [Verbale 01/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_01.pdf)
+- [Verbale 03/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_03.pdf)
 - [Verbale 10/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_10.pdf)
 
