@@ -19,10 +19,10 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 
 ## Esterni
 
-- [Analisi dei Requisiti](/SmartLog/AdR/AnalisiDeiRequisiti.pdf) v1.0.0
+- [Analisi dei Requisiti](/SmartLog/AdR/AnalisiDeiRequisiti.pdf) v2.0.0
 - [Glossario](/SmartLog/Glossario/Glossario.pdf) v1.0.0
-- [Piano di progetto](/SmartLog/PdP/PianoDiProgetto.pdf) v1.0.0
-- [Piano di qualifica](/SmartLog/PdQ/PianoDiQualifica.pdf) v1.0.0
+- [Piano di progetto](/SmartLog/PdP/PianoDiProgetto.pdf) v1.0.2
+- [Piano di Qualifica](/SmartLog/PdQ/PianoDiQualifica.pdf) v1.1.0
 
 
 ### Verbali
@@ -66,4 +66,5 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 - [Verbale 01/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_01.pdf)
 - [Verbale 03/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_03.pdf)
 - [Verbale 10/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_10.pdf)
+- [Verbale 18/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_18.pdf)
 
