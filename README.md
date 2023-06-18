@@ -5,6 +5,10 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 # Documenti
 
 
+## Product Baseline
+
+- [Candidatura per la revisione Product Baseline](/SmartLog/Candidatura-PB/Candidatura.pdf)
+
 ## Requirements and Technology Baseline
 
 - [Candidatura per la revisione Requirements and Technology Baseline](/SmartLog/Candidatura-RTB/Candidatura.pdf)
@@ -19,10 +23,13 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 
 ## Esterni
 
-- [Analisi dei Requisiti](/SmartLog/AdR/AnalisiDeiRequisiti.pdf) v2.0.0
-- [Glossario](/SmartLog/Glossario/Glossario.pdf) v1.0.0
-- [Piano di progetto](/SmartLog/PdP/PianoDiProgetto.pdf) v1.0.2
-- [Piano di Qualifica](/SmartLog/PdQ/PianoDiQualifica.pdf) v1.1.0
+- [Analisi dei Requisiti](/SmartLog/AdR/AnalisiDeiRequisiti.pdf) v3.0
+- [Glossario](/SmartLog/Glossario/Glossario.pdf) v2.0
+- [Manuale Sviluppatore](/SmartLog/MS/ManualeSviluppatore.pdf) v1.0
+- [Manuale Utente](/SmartLog/MU/ManualeUtente.pdf) v1.0
+- [Piano di Progetto](/SmartLog/PdP/PianoDiProgetto.pdf) v2.0
+- [Piano di Qualifica](/SmartLog/PdQ/PianoDiQualifica.pdf) v2.0
+- [Specifica Tecnica](/SmartLog/ST/SpecificaTecnica.pdf) v1.0
 
 
 ### Verbali
@@ -34,14 +41,17 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 - [Verbale 22/12/2022](/SmartLog/Verbali/Esterni/Verbale_2022_12_22.pdf)
 - [Verbale 11/01/2023](/SmartLog/Verbali/Esterni/Verbale_2023_01_11.pdf)
 - [Verbale 03/02/2023](/SmartLog/Verbali/Esterni/Verbale_2023_02_03.pdf)
-- [Verbale 08/02/2023](/SmartLog/Verbali/Esterni/Verbale_2023_02_08.pdf)
+- [Verbale 04/04/2023](/SmartLog/Verbali/Esterni/Verbale_2023_04_04_Cardin.pdf)
+- [Verbale 04/04/2023](/SmartLog/Verbali/Esterni/Verbale_2023_04_04_Socomec.pdf)
+- [Verbale 12/05/2023](/SmartLog/Verbali/Esterni/Verbale_2023_05_12.pdf)
+- [Verbale 12/06/2023](/SmartLog/Verbali/Esterni/Verbale_2023_06_12.pdf)
 
 
 ---
 
 ## Interni
 
-- [Way of working](/SmartLog/WOW/WayOfWorking.pdf) v1.0.0
+- [Way of Working](/SmartLog/WOW/WayOfWorking.pdf) v2.0
 
 
 ### Verbali
@@ -67,4 +77,18 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 - [Verbale 03/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_03.pdf)
 - [Verbale 10/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_10.pdf)
 - [Verbale 18/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_18.pdf)
+- [Verbale 31/03/2023](/SmartLog/Verbali/Interni/Verbale_2023_03_31.pdf)
+- [Verbale 04/04/2023](/SmartLog/Verbali/Interni/Verbale_2023_04_04_Cardin.pdf)
+- [Verbale 04/04/2023](/SmartLog/Verbali/Interni/Verbale_2023_04_04_Socomec.pdf)
+- [Verbale 07/04/2023](/SmartLog/Verbali/Interni/Verbale_2023_04_07.pdf)
+- [Verbale 14/04/2023](/SmartLog/Verbali/Interni/Verbale_2023_04_14.pdf)
+- [Verbale 21/04/2023](/SmartLog/Verbali/Interni/Verbale_2023_04_21.pdf)
+- [Verbale 28/04/2023](/SmartLog/Verbali/Interni/Verbale_2023_04_28.pdf)
+- [Verbale 05/05/2023](/SmartLog/Verbali/Interni/Verbale_2023_05_05.pdf)
+- [Verbale 12/05/2023](/SmartLog/Verbali/Interni/Verbale_2023_05_12.pdf)
+- [Verbale 19/05/2023](/SmartLog/Verbali/Interni/Verbale_2023_05_19.pdf)
+- [Verbale 26/05/2023](/SmartLog/Verbali/Interni/Verbale_2023_05_26.pdf)
+- [Verbale 02/06/2023](/SmartLog/Verbali/Interni/Verbale_2023_06_02.pdf)
+- [Verbale 09/06/2023](/SmartLog/Verbali/Interni/Verbale_2023_06_09.pdf)
+- [Verbale 17/06/2023](/SmartLog/Verbali/Interni/Verbale_2023_06_17.pdf)
 
