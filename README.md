@@ -2,6 +2,12 @@
 
 Pagina di aggregazione della documentazione del progetto di Ingegneria del Software (A.A 2022/2023). Il capitolato scelto è il [C5 SmartLog](https://www.math.unipd.it/~tullio/IS-1/2022/Progetto/C5.pdf) di Socomec.
 
+# Codice
+
+[SmartLogApp](https://github.com/linvteam/SmartLogApp)
+
+---
+
 # Documenti
 
 
