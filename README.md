@@ -97,4 +97,5 @@ Pagina di aggregazione della documentazione del progetto di Ingegneria del Softw
 - [Verbale 02/06/2023](/SmartLog/Verbali/Interni/Verbale_2023_06_02.pdf)
 - [Verbale 09/06/2023](/SmartLog/Verbali/Interni/Verbale_2023_06_09.pdf)
 - [Verbale 17/06/2023](/SmartLog/Verbali/Interni/Verbale_2023_06_17.pdf)
+- [Verbale 24/06/2023](/SmartLog/Verbali/Interni/Verbale_2023_06_24.pdf)
 
